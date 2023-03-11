@@ -6,4 +6,4 @@ Hiiii
 
 if you want to work with me<!-- slightdelayhere-->, there can contact my email<!-- longlonglongcomment --><a href="mailto:syntaxyupy@gmail.com"> Email me!</a>.
 
-<span id="k">Cheers!</span>
+<span id="k">Cheers!!</span>
